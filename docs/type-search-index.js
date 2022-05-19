@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"proyecto3quickhull","l":"Proyecto3QuickHull"},{"p":"proyecto3quickhull","l":"QuickHull"},{"p":"proyecto3quickhull","l":"QuickHull.QuickHullPar"}];updateSearchResults();
